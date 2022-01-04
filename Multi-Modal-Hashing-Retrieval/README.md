@@ -18,10 +18,7 @@ Dataset Link:
     
 ## 2. Reference
 
-**APMH(SAPMH/UAPMH):**
-    
-    Paper: 
-    Code: 
+**APMH(SAPMH/UAPMH): Adaptive Partial Multi-view Hashing for Efficient Social Image Retrieval**  [[PDF]](https://ieeexplore.ieee.org/document/9257004) [[Code]](https://github.com/ChaoqunZheng/APMH)
 
 **DCMVH:**
 
