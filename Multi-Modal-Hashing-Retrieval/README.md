@@ -36,13 +36,13 @@ Dataset Link:
 
 **MFH: Effective multiple feature hashing for large-scale near-duplicate video retrieval** [[PDF]](https://ieeexplore.ieee.org/abstract/document/6553136)
 
-**MFKH: Multiple feature kernel hashing for large-scale visual search**[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0031320313003452)
+**MFKH: Multiple feature kernel hashing for large-scale visual search** [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0031320313003452)
 
 
-**MvDH: Multiview Discrete Hashing for Scalable Multimedia Search**[[PDF]](https://dl.acm.org/doi/abs/10.1145/3178119)
+**MvDH: Multiview Discrete Hashing for Scalable Multimedia Search** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3178119)
 
 
-**MVLH: Multi-view latent hashing for efficient multimedia search**[[PDF]](https://dl.acm.org/doi/abs/10.1145/2733373.2806342)
+**MVLH: Multi-view latent hashing for efficient multimedia search** [[PDF]](https://dl.acm.org/doi/abs/10.1145/2733373.2806342)
 
 
 **OMH-DQ: Online Multi-modal Hashing with Dynamic Query-adaption** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3331184.3331217) [[Code]](https://github.com/lxuu306/OMH-DQ_SIGIR2019)
