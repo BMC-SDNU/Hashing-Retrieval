@@ -51,7 +51,7 @@ Dataset Link:
 
 ## 3. TODO
 
-(1) The construct Dataset.m is too slow in MFKH and DMVH. We will improve the construction process and speed up it.
+(1) The construct **Dataset.m** is too slow in MFKH and DMVH. We will improve the construction process and speed up it.
 
 (2) We will further evaluate the running process of all methods on all datasets.
 
