@@ -24,7 +24,7 @@ Pre-trained model link:
 
 **BATCH:**
     
-    Paper: 
+    Paper: BATCH: A Scalable Asymmetric Discrete Cross-Modal Hashing
     Code: 
 
 **CCQ:**
