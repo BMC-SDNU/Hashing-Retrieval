@@ -30,7 +30,7 @@ Dataset Link:
 
 **FDCMH: Fast Discrete Collaborative Multi-modal Hashing for Large-scale Multimedia Retrieval** [[PDF]](https://ieeexplore.ieee.org/abstract/document/8700276)
 
-**FOMH: Flexible Online Multi-modal Hashing for Large-scale Multimedia Retrieval** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3343031.3350999) [[Code]] (https://github.com/lxuu306/FOMH)
+**FOMH: Flexible Online Multi-modal Hashing for Large-scale Multimedia Retrieval** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3343031.3350999) [[Code]](https://github.com/lxuu306/FOMH)
 
 **MAH: **
 
