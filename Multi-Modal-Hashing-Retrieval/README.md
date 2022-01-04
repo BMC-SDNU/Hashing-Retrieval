@@ -26,13 +26,13 @@ Dataset Link:
 **DMVH: Discrete Multi-view Hashing for Effective Image Retrieval** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3078971.3078981) 
 
 
-**EPAMH:**
+**EPAMH: Efficient parameter-free adaptive multi-modal hashing** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9137647) [[Code]] (https://github.com/ChaoqunZheng/EPAMH)
 
-**FDCMH:**
+**FDCMH: Fast Discrete Collaborative Multi-modal Hashing for Large-scale Multimedia Retrieval** [[PDF]](https://ieeexplore.ieee.org/abstract/document/8700276)
 
-**FOMH:**
+**FOMH: Flexible Online Multi-modal Hashing for Large-scale Multimedia Retrieval** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3343031.3350999) [[Code]] (https://github.com/lxuu306/FOMH)
 
-**MAH:**
+**MAH: **
 
 **MFH:**
 
@@ -42,9 +42,9 @@ Dataset Link:
 
 **MVLH:**
 
-**OMH-DQ:**
+**OMH-DQ: Online Multi-modal Hashing with Dynamic Query-adaption** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3331184.3331217) [[Code]] (https://github.com/lxuu306/OMH-DQ_SIGIR2019)
 
-**SDMH:**
+**SDMH: Efficient Supervised Discrete Multi-view Hashing for Large-scale Multimedia Search** [[PDF]](https://ieeexplore.ieee.org/abstract/document/8868211) [[Code]] (https://github.com/lxuu306/SDMH)
 
 ## 3. TODO
 
