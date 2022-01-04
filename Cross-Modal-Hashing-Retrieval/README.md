@@ -24,8 +24,8 @@ Pre-trained model link:
 
 **BATCH:**
     
-    Paper: BATCH: A Scalable Asymmetric Discrete Cross-Modal Hashing
-    Code: 
+    Paper: BATCH: A Scalable Asymmetric Discrete Cross-Modal Hashing [PDF](https://ieeexplore.ieee.org/document/9001235)
+    Code: https://github.com/yxinwang/BATCH-TKDE2020
 
 **CCQ:**
     
