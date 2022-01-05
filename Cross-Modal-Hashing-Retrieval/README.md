@@ -24,7 +24,7 @@ Pre-trained model link:
 
 **BATCH: A Scalable Asymmetric Discrete Cross-Modal Hashing**  [[PDF]](https://ieeexplore.ieee.org/document/9001235) [[Code]](https://github.com/yxinwang/BATCH-TKDE2020)
 
-**CCQ:** [[PDF]]() [[Code]]()
+**CCQ: Composite correlation quantization for efficient multimodal retrieval** [[PDF]](https://dl.acm.org/doi/abs/10.1145/2911451.2911493) [[Code]]()
 
 **CMFH: Collective matrix factorization hashing for multimodal data**  [[PDF]](https://openaccess.thecvf.com/content_cvpr_2014/html/Ding_Collective_Matrix_Factorization_2014_CVPR_paper.html) [[Code]]()
   
@@ -48,17 +48,17 @@ Pre-trained model link:
     
 **LSSH: Latent semantic sparse hashing for cross-modal similarity search** [[PDF]](https://dl.acm.org/doi/abs/10.1145/2600428.2609610) [[Code]]()
     
-**SCM: Large-Scale Supervised Multimodal Hashing with Semantic Correlation Maximization** [[PDF]]() [[Code]]()
+**SCM: Large-Scale Supervised Multimodal Hashing with Semantic Correlation Maximization** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/8995) [[Code]]()
     
-**SCRATCH: A Scalable Discrete Matrix Factorization Hashing for Cross-Modal Retrieval** [[PDF]]() [[Code]]()
+**SCRATCH: A Scalable Discrete Matrix Factorization Hashing for Cross-Modal Retrieval** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3240508.3240547) [[Code]]()
     
-**SMFH: Supervised Matrix Factorization for Cross-Modality Hashing** [[PDF]]() [[Code]]()
+**SMFH: ** [[PDF]]() [[Code]]()
 
-**SSAH: Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval** [[PDF]]() [[Code]]()
+**SSAH: Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval** [[PDF]](https://openaccess.thecvf.com/content_cvpr_2018/html/Li_Self-Supervised_Adversarial_Hashing_CVPR_2018_paper.html) [[Code]]()
     
-**STMH: Semantic Topic Multimodal Hashing for Cross-Media Retrieval** [[PDF]]() [[Code]]()
+**STMH: Semantic Topic Multimodal Hashing for Cross-Media Retrieval** [[PDF]](https://www.ijcai.org/Abstract/15/546) [[Code]]()
     
-**SePH: Semantics-preserving hashing for cross-view retrieval** [[PDF]]() [[Code]]()
+**SePH: Semantics-preserving hashing for cross-view retrieval** [[PDF]](https://openaccess.thecvf.com/content_cvpr_2015/html/Lin_Semantics-Preserving_Hashing_for_2015_CVPR_paper.html) [[Code]]()
     
 ## 3. TODO
 
