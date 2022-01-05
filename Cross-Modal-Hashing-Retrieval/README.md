@@ -29,10 +29,7 @@ Pre-trained model link:
     Paper: 
     Code: 
 
-**CMFH:**
-    
-    Paper: 
-    Code:
+**CMFH:** Collective matrix factorization hashing for multimodal data
 
 **CVH:**
     
