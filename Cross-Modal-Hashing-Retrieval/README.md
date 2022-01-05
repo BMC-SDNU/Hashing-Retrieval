@@ -24,92 +24,41 @@ Pre-trained model link:
 
 **BATCH: A Scalable Asymmetric Discrete Cross-Modal Hashing**  [[PDF]](https://ieeexplore.ieee.org/document/9001235) [[Code]](https://github.com/yxinwang/BATCH-TKDE2020)
 
-**CCQ:**
-    
-    Paper: 
-    Code: 
+**CCQ:** [[PDF]]() [[Code]]()
 
-**CMFH:** Collective matrix factorization hashing for multimodal data
+**CMFH: Collective matrix factorization hashing for multimodal data**  [[PDF]](https://openaccess.thecvf.com/content_cvpr_2014/html/Ding_Collective_Matrix_Factorization_2014_CVPR_paper.html) [[Code]]()
+  
+**CVH: Learning Hash Functions for Cross-View Similarity Search** [[PDF]](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI11/paper/view/3350/3446) [[Code]]()
+   
+**DCH: Learning Discriminative Binary Codes for Large-scale Cross-modal Retrieval** [[PDF]](https://ieeexplore.ieee.org/abstract/document/7867785) [[Code]]()
 
-**CVH:**
-    
-    Paper: 
-    Code: 
+**DCHUC: Deep Cross-Modal Hashing with Hashing Functions and Unified Hash Codes Jointly Learning** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9069300) [[Code]]()
 
-**DCH:**
-    
-    Paper: 
-    Code: 
+**DCMH: Deep Cross-Modal Hashing** [[PDF]](https://openaccess.thecvf.com/content_cvpr_2017/html/Jiang_Deep_Cross-Modal_Hashing_CVPR_2017_paper.html) [[Code]]()
 
-**DCHUC:**
-    
-    Paper: 
-    Code: 
+**DJSRH: Deep Joint-Semantics Reconstructing Hashing for Large-Scale Unsupervised Cross-Modal Retrieval** [[PDF]](https://openaccess.thecvf.com/content_ICCV_2019/html/Su_Deep_Joint-Semantics_Reconstructing_Hashing_for_Large-Scale_Unsupervised_Cross-Modal_Retrieval_ICCV_2019_paper.html) [[Code]]()
 
-**DCMH:**
-    
-    Paper: 
-    Code: 
+**DLFH: Discrete Latent Factor Model for Cross-Modal Hashing** [[PDF]](https://ieeexplore.ieee.org/abstract/document/8636536) [[Code]]()
 
-**DJSRH:**
-    
-    Paper: 
-    Code: 
+**IMH: Inter-media hashing for large-scale retrieval from heterogeneous data sources** [[PDF]](https://dl.acm.org/doi/abs/10.1145/2463676.2465274) [[Code]]()
 
-**DLFH:**
+**JDSH: Joint-modal Distribution-based Similarity Hashing for Large-scale Unsupervised Deep Cross-modal Retrieval** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3397271.3401086) [[Code]]()
     
-    Paper: 
-    Code:  
+**LEMON: Label Embedding Online Hashing for Cross-Modal Retrieval** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3394171.3413971) [[Code]]()
+    
+**LSSH: Latent semantic sparse hashing for cross-modal similarity search** [[PDF]](https://dl.acm.org/doi/abs/10.1145/2600428.2609610) [[Code]]()
+    
+**SCM: Large-Scale Supervised Multimodal Hashing with Semantic Correlation Maximization** [[PDF]]() [[Code]]()
+    
+**SCRATCH: A Scalable Discrete Matrix Factorization Hashing for Cross-Modal Retrieval** [[PDF]]() [[Code]]()
+    
+**SMFH: Supervised Matrix Factorization for Cross-Modality Hashing** [[PDF]]() [[Code]]()
 
-**IMH:**
+**SSAH: Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval** [[PDF]]() [[Code]]()
     
-    Paper: 
-    Code: 
-
-**JDSH:**
+**STMH: Semantic Topic Multimodal Hashing for Cross-Media Retrieval** [[PDF]]() [[Code]]()
     
-    Paper: 
-    Code: 
-    
-**LEMON:**
-    
-    Paper: 
-    Code: 
-    
-**LSSH:**
-    
-    Paper: 
-    Code: 
-    
-**SCM:**
-    
-    Paper: 
-    Code: 
-    
-**SCRATCH:**
-    
-    Paper: 
-    Code: 
-    
-**SMFH:**
-    
-    Paper: 
-    Code:
-
-**SSAH:**
-    
-    Paper: 
-    Code:
-    
-**STMH:**
-    
-    Paper: 
-    Code: 
-    
-**SePH:**
-    
-    Paper: 
-    Code: 
+**SePH: Semantics-preserving hashing for cross-view retrieval** [[PDF]]() [[Code]]()
     
 ## 3. TODO
 
