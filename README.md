@@ -20,9 +20,7 @@ With the explosive growth of multi-modal contents, multi-modal retrieval is faci
 
 The difference between them is shown as follows:
 
-<figure class='half'>
-<img src="figure/main-a.png" width=320/><img src="figure/main-b.png" width=320/>
-</figure>
+<div align='center' margin-bottom:40px><img src="figure/main-a.png" width=350/><img src="figure/main-b.png" width=350/></div>
 
 
 ## Supported Methods
