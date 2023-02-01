@@ -24,10 +24,12 @@ The difference between them is shown as follows:
 
 
 ## Supported Methods
-
 The currently supported algorithms include:
 
 ### Cross-modal Hashing
+- **HMAH: Efficient Hierarchical Message Aggregation Hashing for Cross-Modal Retrieval (TMM2022)**  [[PDF]](https://ieeexplore.ieee.org/document/9782694) [[Code]](https://github.com/FutureTwT/HMAH)
+
+- **BSTH: Bit-aware Semantic Transformer Hashing for Multi-modal Retrieval (SIGIR2022)**  [[PDF]](https://dl.acm.org/doi/10.1145/3477495.3531947)[[Code]](https://github.com/FutureTwT/BSTH)
 
 - **BATCH: A Scalable Asymmetric Discrete Cross-Modal Hashing**  [[PDF]](https://ieeexplore.ieee.org/document/9001235) [[Code]](https://github.com/yxinwang/BATCH-TKDE2020)
 
