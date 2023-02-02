@@ -29,8 +29,6 @@ The currently supported algorithms include:
 ### Cross-modal Hashing
 - **HMAH: Efficient Hierarchical Message Aggregation Hashing for Cross-Modal Retrieval (TMM2022)**  [[PDF]](https://ieeexplore.ieee.org/document/9782694) [[Code]](https://github.com/FutureTwT/HMAH)
 
-- **BSTH: Bit-aware Semantic Transformer Hashing for Multi-modal Retrieval (SIGIR2022)**  [[PDF]](https://dl.acm.org/doi/10.1145/3477495.3531947)[[Code]](https://github.com/FutureTwT/BSTH)
-
 - **BATCH: A Scalable Asymmetric Discrete Cross-Modal Hashing**  [[PDF]](https://ieeexplore.ieee.org/document/9001235) [[Code]](https://github.com/yxinwang/BATCH-TKDE2020)
 
 - **CCQ: Composite Correlation Quantization for Efficient Multimodal Retrieval** [[PDF]](https://dl.acm.org/doi/abs/10.1145/2911451.2911493) [[Code]]()
@@ -61,7 +59,7 @@ The currently supported algorithms include:
   
 - **SCRATCH: A Scalable Discrete Matrix Factorization Hashing for Cross-Modal Retrieval** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3240508.3240547) [[Code]]()
   
-- **SMFH:** [[PDF]]() [[Code]]()
+- **SMFH: Supervised Matrix Factorization Hashing for Cross-Modal Retrieval (IJCAI2016)** [[PDF]](https://ieeexplore.ieee.org/abstract/document/7466099) [[Code]](https://github.com/LynnHongLiu/SMFH))
 
 - **SSAH: Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval** [[PDF]](https://openaccess.thecvf.com/content_cvpr_2018/html/Li_Self-Supervised_Adversarial_Hashing_CVPR_2018_paper.html) [[Code]](https://github.com/lelan-li/SSAH)
   
@@ -79,6 +77,8 @@ The currently supported algorithms include:
 
   
 ### Composite Multi-modal Hashing
+
+- **BSTH: Bit-aware Semantic Transformer Hashing for Multi-modal Retrieval (SIGIR2022)**  [[PDF]](https://dl.acm.org/doi/10.1145/3477495.3531947)[[Code]](https://github.com/FutureTwT/BSTH)
 
 - **APMH(SAPMH/UAPMH): Adaptive Partial Multi-view Hashing for Efficient Social Image Retrieval**  [[PDF]](https://ieeexplore.ieee.org/document/9257004) [[Code]](https://github.com/ChaoqunZheng/APMH)
 
