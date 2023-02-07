@@ -40,7 +40,7 @@ The currently supported algorithms include:
 
 - **DGCPN: Deep Graph-neighbor Coherence Preserving Network for Unsupervised Cross-modal Hashing (AAAI2021)**  [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/16592) [[Code]](https://github.com/Atmegal/DGCPN)
 
-- **BATCH: A Scalable Asymmetric Discrete Cross-Modal Hashing (KDE2021)**  [[PDF]](https://ieeexplore.ieee.org/document/9001235) [[Code]](https://github.com/yxinwang/BATCH-TKDE2020)
+- **BATCH: A Scalable Asymmetric Discrete Cross-Modal Hashing (TKDE2021)**  [[PDF]](https://ieeexplore.ieee.org/document/9001235) [[Code]](https://github.com/yxinwang/BATCH-TKDE2020)
 
 - **MTFH: A Matrix Tri-Factorization Hashing Framework for Efficient Cross-Modal Retrieval (PAMI2021)** [[PDF]](https://ieeexplore.ieee.org/abstract/document/8827941) [[Code]](https://github.com/starxliu/MTFH)
 
@@ -92,38 +92,46 @@ The currently supported algorithms include:
 
 ### Composite Multi-modal Hashing
 
+#### 2022
+
 - **BSTH: Bit-aware Semantic Transformer Hashing for Multi-modal Retrieval (SIGIR2022)**  [[PDF]](https://dl.acm.org/doi/10.1145/3477495.3531947)[[Code]](https://github.com/FutureTwT/BSTH)
 
-- **APMH(SAPMH/UAPMH): Adaptive Partial Multi-view Hashing for Efficient Social Image Retrieval**  [[PDF]](https://ieeexplore.ieee.org/document/9257004) [[Code]](https://github.com/ChaoqunZheng/APMH)
+#### 2021
 
-- **DCMVH: Deep Collaborative Multi-View Hashing for Large-Scale Image Search** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9007019) [[Code]](https://github.com/lxuu306/DCMVH)
+- **APMH(SAPMH/UAPMH): Adaptive Partial Multi-view Hashing for Efficient Social Image Retrieval (TMM2021)**  [[PDF]](https://ieeexplore.ieee.org/document/9257004) [[Code]](https://github.com/ChaoqunZheng/APMH)
+
+#### 2020
+
+- **DCMVH: Deep Collaborative Multi-View Hashing for Large-Scale Image Search (TIP2020)** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9007019) [[Code]](https://github.com/lxuu306/DCMVH)
+
+- **EPAMH: Efficient parameter-free adaptive multi-modal hashing (SPL2020)** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9137647) [[Code]](https://github.com/ChaoqunZheng/EPAMH)
+
+- **FDCMH: Fast Discrete Collaborative Multi-modal Hashing for Large-scale Multimedia Retrieval (TKDE2020)** [[PDF]](https://ieeexplore.ieee.org/abstract/document/8700276)
+
+- **SDMH: Efficient Supervised Discrete Multi-view Hashing for Large-scale Multimedia Search (TMM2020)** [[PDF]](https://ieeexplore.ieee.org/abstract/document/8868211) [[Code]](https://github.com/lxuu306/SDMH)
+
+#### Others
+
+- **OMH-DQ: Online Multi-modal Hashing with Dynamic Query-adaption (SIGIR2019)** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3331184.3331217) [[Code]](https://github.com/lxuu306/OMH-DQ_SIGIR2019)
+
+- **FOMH: Flexible Online Multi-modal Hashing for Large-scale Multimedia Retrieval (MM2019)** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3343031.3350999) [[Code]](https://github.com/lxuu306/FOMH)
+
+- **DMVH: Discrete Multi-view Hashing for Effective Image Retrieval (ICMR2017)** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3078971.3078981) 
+
+- **MvDH: Multiview Discrete Hashing for Scalable Multimedia Search (TIST2018)** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3178119)
+
+- **MAH: Multiview alignment hashing for efficient image search (TIP2015)** [[PDF]](https://ieeexplore.ieee.org/abstract/document/7006770)
+
+- **MVLH: Multi-view latent hashing for efficient multimedia search (MM2015)** [[PDF]](https://dl.acm.org/doi/abs/10.1145/2733373.2806342)
+
+- **MFKH: Multiple feature kernel hashing for large-scale visual search (PR2014)** [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0031320313003452)
+
+- **MFH: Effective multiple feature hashing for large-scale near-duplicate video retrieval (TMM2013)** [[PDF]](https://ieeexplore.ieee.org/abstract/document/6553136)
 
 
-- **DMVH: Discrete Multi-view Hashing for Effective Image Retrieval** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3078971.3078981) 
 
 
-- **EPAMH: Efficient parameter-free adaptive multi-modal hashing** [[PDF]](https://ieeexplore.ieee.org/abstract/document/9137647) [[Code]](https://github.com/ChaoqunZheng/EPAMH)
 
-- **FDCMH: Fast Discrete Collaborative Multi-modal Hashing for Large-scale Multimedia Retrieval** [[PDF]](https://ieeexplore.ieee.org/abstract/document/8700276)
-
-- **FOMH: Flexible Online Multi-modal Hashing for Large-scale Multimedia Retrieval** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3343031.3350999) [[Code]](https://github.com/lxuu306/FOMH)
-
-- **MAH: Multiview alignment hashing for efficient image search** [[PDF]](https://ieeexplore.ieee.org/abstract/document/7006770)
-
-- **MFH: Effective multiple feature hashing for large-scale near-duplicate video retrieval** [[PDF]](https://ieeexplore.ieee.org/abstract/document/6553136)
-
-- **MFKH: Multiple feature kernel hashing for large-scale visual search** [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0031320313003452)
-
-
-- **MvDH: Multiview Discrete Hashing for Scalable Multimedia Search** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3178119)
-
-
-- **MVLH: Multi-view latent hashing for efficient multimedia search** [[PDF]](https://dl.acm.org/doi/abs/10.1145/2733373.2806342)
-
-
-- **OMH-DQ: Online Multi-modal Hashing with Dynamic Query-adaption** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3331184.3331217) [[Code]](https://github.com/lxuu306/OMH-DQ_SIGIR2019)
-
-- **SDMH: Efficient Supervised Discrete Multi-view Hashing for Large-scale Multimedia Search** [[PDF]](https://ieeexplore.ieee.org/abstract/document/8868211) [[Code]](https://github.com/lxuu306/SDMH)
 
 ## Usage
 
