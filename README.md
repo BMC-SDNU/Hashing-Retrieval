@@ -56,6 +56,10 @@ The currently supported algorithms include:
 
 - **OCMFH: Online Collective Matrix Factorization Hashing for Large-Scale Cross-Media Retrieval (SIGIR2020)** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3397271.3401132) [[Code]](https://github.com/Wangdi-Xidian/OCMFH)
 
+- **DADH: Deep Adversarial Discrete Hashing for Cross-Modal Retrieval（ICMR2020)**[[PDF]](https://dl.acm.org/doi/abs/10.1145/3372278.3390711)[[Code]](https://github.com/Zjut-MultimediaPlus/DADH)
+
+- **CPAH: Multi-Task Consistency-Preserving Adversarial Hashing for Cross-Modal Retrieval (TIP2020)**[[PDF]](https://ieeexplore.ieee.org/abstract/document/8954946)[[Code]](https://github.com/comrados/cpah)
+
 #### Others
 
 - **DJSRH: Deep Joint-Semantics Reconstructing Hashing for Large-Scale Unsupervised Cross-Modal Retrieval (ICCV2019)** [[PDF]](https://openaccess.thecvf.com/content_ICCV_2019/html/Su_Deep_Joint-Semantics_Reconstructing_Hashing_for_Large-Scale_Unsupervised_Cross-Modal_Retrieval_ICCV_2019_paper.html) [[Code]](https://github.com/zs-zhong/DJSRH)
