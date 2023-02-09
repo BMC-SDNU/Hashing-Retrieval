@@ -114,6 +114,8 @@ The currently supported algorithms include:
 
 - **SDMH: Efficient Supervised Discrete Multi-view Hashing for Large-scale Multimedia Search (TMM2020)** [[PDF]](https://ieeexplore.ieee.org/abstract/document/8868211) [[Code]](https://github.com/lxuu306/SDMH)
 
+- **DCAH: Deep Semantic-Alignment Hashing for Unsupervised Cross-Modal Retrieval (ICMR2020)**[[PDF]](https://dl.acm.org/doi/abs/10.1145/3372278.3390673)[[Code]](https://github.com/idejie/DSAH)
+
 #### Others
 
 - **OMH-DQ: Online Multi-modal Hashing with Dynamic Query-adaption (SIGIR2019)** [[PDF]](https://dl.acm.org/doi/abs/10.1145/3331184.3331217) [[Code]](https://github.com/lxuu306/OMH-DQ_SIGIR2019)
