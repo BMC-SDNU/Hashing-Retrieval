@@ -30,7 +30,7 @@ The currently supported algorithms include:
 ### Survey
 
  #### 2023
- - **Multi-modal Hashing for Efficient Multimedia Retrieval: A Survey (TKDE2023)** [[PDF]]([https://ieeexplore.ieee.org/document/9782694](https://ieeexplore.ieee.org/document/10144360))
+ - **Multi-modal Hashing for Efficient Multimedia Retrieval: A Survey (TKDE2023)** [[PDF]](https://ieeexplore.ieee.org/document/10144360)
 
 ### Cross-modal Hashing
 
