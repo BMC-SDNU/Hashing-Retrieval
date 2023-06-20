@@ -2,13 +2,11 @@
 - [Introduction](#introduction)
     - [Background](#background)
 - [Supported Methods](#supported-methods)
-    - [Survey](#survey)
     - [Cross-modal Hashing](#cross-modal-hashing) 
     - [Composite Multi-modal Hashing](#composite-multi-modal-hashing) 
 - [Usage](#usage)
 - [Contact](#contact)
 - [Citation](#citation)
-- [Acknowledgment](#acknowledgment)
 
 ## Introduction
 This library is an open-source repository that contains most of SOTA cross-modal hashing methods and composite multi-modal hashing methods.
@@ -26,11 +24,6 @@ The difference between them is shown as follows:
 
 ## Supported Methods
 The currently supported algorithms include:
-
-### Survey
-
- #### 2023
- - **Multi-modal Hashing for Efficient Multimedia Retrieval: A Survey (TKDE2023)** [[PDF]](https://ieeexplore.ieee.org/document/10144360)
 
 ### Cross-modal Hashing
 
@@ -98,8 +91,6 @@ The currently supported algorithms include:
 
 - **CVH: Learning Hash Functions for Cross-View Similarity Search (AAAI2011)** [[PDF]](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI11/paper/view/3350/3446) [[Code]]()
 
-
-
 ### Composite Multi-modal Hashing
 
 #### 2022
@@ -139,11 +130,6 @@ The currently supported algorithms include:
 - **MFKH: Multiple feature kernel hashing for large-scale visual search (PR2014)** [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0031320313003452)
 
 - **MFH: Effective multiple feature hashing for large-scale near-duplicate video retrieval (TMM2013)** [[PDF]](https://ieeexplore.ieee.org/abstract/document/6553136)
-
-
-
-
-
 
 ## Usage
 
@@ -188,11 +174,12 @@ If you have any questions or suggestions, feel free to contact
 or raise an issue.
 
 ## Citation
-@ARTICLE{10144360,
-         author={Zhu, Lei and Zheng, Chaoqun and Guan, Weili and Li, Jingjing and Yang, Yang and Shen, Heng Tao},
-         journal={IEEE Transactions on Knowledge and Data Engineering}, 
-         title={Multi-modal Hashing for Efficient Multimedia Retrieval: A Survey}, 
-         year={2023},
-         pages={1-20},
-         doi={10.1109/TKDE.2023.3282921}
-}
+
+    @ARTICLE{10144360,
+             author={Zhu, Lei and Zheng, Chaoqun and Guan, Weili and Li, Jingjing and Yang, Yang and Shen, Heng Tao},
+             journal={IEEE Transactions on Knowledge and Data Engineering}, 
+             title={Multi-modal Hashing for Efficient Multimedia Retrieval: A Survey}, 
+             year={2023},
+             pages={1-20},
+             doi={10.1109/TKDE.2023.3282921}
+    }
