@@ -2,6 +2,7 @@
 - [Introduction](#introduction)
     - [Background](#background)
 - [Supported Methods](#supported-methods)
+    - [Survey](#survey)
     - [Cross-modal Hashing](#cross-modal-hashing) 
     - [Composite Multi-modal Hashing](#composite-multi-modal-hashing) 
 - [Usage](#usage)
@@ -25,6 +26,11 @@ The difference between them is shown as follows:
 
 ## Supported Methods
 The currently supported algorithms include:
+
+### Survey
+
+ #### 2023
+ - **Multi-modal Hashing for Efficient Multimedia Retrieval: A Survey (TKDE2023)** [[PDF]]([https://ieeexplore.ieee.org/document/9782694](https://ieeexplore.ieee.org/document/10144360))
 
 ### Cross-modal Hashing
 
