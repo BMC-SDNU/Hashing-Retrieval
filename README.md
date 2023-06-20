@@ -188,4 +188,11 @@ If you have any questions or suggestions, feel free to contact
 or raise an issue.
 
 ## Citation
-To be determined.
+@ARTICLE{10144360,
+         author={Zhu, Lei and Zheng, Chaoqun and Guan, Weili and Li, Jingjing and Yang, Yang and Shen, Heng Tao},
+         journal={IEEE Transactions on Knowledge and Data Engineering}, 
+         title={Multi-modal Hashing for Efficient Multimedia Retrieval: A Survey}, 
+         year={2023},
+         pages={1-20},
+         doi={10.1109/TKDE.2023.3282921}
+}
